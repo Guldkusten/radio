@@ -33,3 +33,4 @@ client_scripts {
 	"client.js"
 }
  -- https://lyssnarservice.ilikeradio.se/hc/sv/articles/115000307412-Direktadresser-till-v%C3%A5ra-str%C3%B6mmar
+-- test
